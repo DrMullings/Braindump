@@ -18,7 +18,7 @@ Following packages needed to be installed: `ruby-devel gcc-c++`
 - `sudo gem install jekyll bundler`
 - `mkdir jekyllDir`
 - `jekyll new jekyllDir`
-- `bundle exec jekyll --livereload`
+- `bundle exec jekyll serve --livereload`
 
 In `_config.yml`:
 - adapt title and description
